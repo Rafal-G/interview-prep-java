@@ -1,11 +1,11 @@
-package com.thatcodecorner.collections.hashmaps;
+package com.thatcodecorner.maps;
 
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 import java.util.Set;
 
-public class Basic {
+public class HashMapBasics {
 
     public static void main(String[] args) {
         Map<String, Integer> hm = new HashMap<String, Integer>();
