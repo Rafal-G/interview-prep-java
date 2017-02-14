@@ -26,6 +26,7 @@ public class ThatLinkedList {
         size++;
     }
 
+
     public int getSize() {
         return size;
     }
